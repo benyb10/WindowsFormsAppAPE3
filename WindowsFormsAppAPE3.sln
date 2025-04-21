@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppAPE3", "WindowsFormsAppAPE3\WindowsFormsAppAPE3.csproj", "{8727FDB6-F749-4562-AEDE-3E488FA4065F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8727FDB6-F749-4562-AEDE-3E488FA4065F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8727FDB6-F749-4562-AEDE-3E488FA4065F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8727FDB6-F749-4562-AEDE-3E488FA4065F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8727FDB6-F749-4562-AEDE-3E488FA4065F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA7F9166-433D-418F-8013-81EA2AF7AD34}
+	EndGlobalSection
+EndGlobal
